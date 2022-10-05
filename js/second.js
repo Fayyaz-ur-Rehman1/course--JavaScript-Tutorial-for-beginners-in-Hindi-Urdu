@@ -9,7 +9,6 @@ if (a > b){
     alert("b is greater")
 }
 
-
 var a = 50
 var b = 40
 if(a > b){
