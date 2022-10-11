@@ -4,3 +4,4 @@
 # [Variables](./md/variables.md)
 # [Variables(Let&Const)](./md/variables(let%26const).md)
 # [Data-types](./md/data-type.md)
+# [Arithmetic-Operator](./md/arithmetic-operators.md)
