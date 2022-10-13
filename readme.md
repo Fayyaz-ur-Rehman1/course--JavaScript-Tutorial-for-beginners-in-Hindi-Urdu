@@ -7,3 +7,4 @@
 # [Arithmetic-Operator](./md/arithmetic-operators.md)
 # [Assignment-Operators](./md/assignment-operators.md)
 # [Google-Chrome-Console](./md/google-chrome-console.md)
+# [Comparision-operators](./md/comparision-operators.md)
