@@ -13,3 +13,5 @@ if( aa > bb ){
 ---
 ### <u>Alert box</u>
 > alert tag is usefull when we want to show alert popup
+
+more code cleck on [alert-box.js](../js/alert-box.js)
