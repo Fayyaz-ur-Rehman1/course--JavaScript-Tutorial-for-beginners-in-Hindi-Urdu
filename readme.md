@@ -12,3 +12,4 @@
 # [If-Eles-Statement](./md/if-else-statement.md)
 # [Logical-Operators](./md/logical-operators.md)
 # [Conditional-Ternary-Operators](./md/conditinol-ternary-operators.md)
+# [Switch-Case](./md/switch-case.md)
