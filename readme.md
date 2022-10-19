@@ -16,3 +16,4 @@
 # [Switch-Case](./md/switch-case.md)
 # [Alert-Box](./md/alert-box.md)
 # [Confirm-Box](./md/confirm-box.md)
+# [Prompt-Box](./md/prompt-box.md)
