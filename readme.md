@@ -18,3 +18,4 @@
 # [Confirm-Box](./md/confirm-box.md)
 # [Prompt-Box](./md/prompt-box.md)
 # [Function](./md/function.md)
+# [Function-With-Parameters](./md/functions-with-parameters.md)
