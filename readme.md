@@ -1,5 +1,4 @@
-# [MD OF JAVA-SCRIPT]
-
+# [JAVA-SCRIPT]
 [3-html-tags-in-js](./MD/3-html-tags-in-js.md)
 ---
 [4-comments](./MD/4-comments.md)
@@ -69,4 +68,4 @@
 [38-pop-and-push-array-method](./MD/38-pop-and-push-Arrays-element.md)
 ---
 [40-shift-and-unshift](./MD/39-shift-and-unshift-Arrays-methods.md)
----
+---;
