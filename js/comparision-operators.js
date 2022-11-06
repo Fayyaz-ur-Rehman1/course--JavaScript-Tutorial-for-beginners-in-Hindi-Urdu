@@ -96,12 +96,12 @@ document.write(sss < fff)
 document.write("<br>")
 
 var bb = 9
-var cc = 7
+var cc = 7 
 document.write(bb < cc )
 
 document.write("<h1><u>Greater-Than-or-equal-to->=</u></h1>")
 var dd = 31
-var kk = 31
+var kk = 4
 document.write(dd >= kk)
 document.write("<br>")
 

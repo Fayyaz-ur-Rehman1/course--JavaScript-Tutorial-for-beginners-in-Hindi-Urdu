@@ -34,4 +34,3 @@ switch (day) {
 > switch tag is useful when we want to switch condition
 ---
 more code cleck on [switch-case.js](../js/switch-case.js)
-### The end
