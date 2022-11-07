@@ -32,3 +32,4 @@ while(a >= 1){
     a-- 
 ```
 more code cleck on [While-Loop,md](../js/loop.js)
+# the end
