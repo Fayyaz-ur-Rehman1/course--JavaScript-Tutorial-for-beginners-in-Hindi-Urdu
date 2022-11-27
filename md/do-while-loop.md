@@ -28,4 +28,4 @@ do{
 }while( a <= 10)
 
 ```
-more code cleck on [do-while-loop.js](../java%20script%20tutotrial%20for%20beginners%20in%20hindi-urdu/js/do-while-loop.js)
+More code cleck on [do-while-loop.js](../java%20script%20tutotrial%20for%20beginners%20in%20hindi-urdu/js/do-while-loop.js)
