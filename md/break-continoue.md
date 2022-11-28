@@ -30,4 +30,4 @@ for(var a = 1; a <= 10; a++){
     }
 }
 ```
-more code cleck on [Break-counttious.md](../md/break-continoue.md)
+more code cleck on [Break-counttious.md](../js/break-continoue.js)
