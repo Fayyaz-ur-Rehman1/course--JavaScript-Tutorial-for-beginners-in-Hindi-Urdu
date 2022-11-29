@@ -19,6 +19,7 @@ so the pattern is to make while loop
 increment loop
 ```javascript
 var a = 1
+# the end
 
 while(a<=10){
     document.write("this is increment while loop")
