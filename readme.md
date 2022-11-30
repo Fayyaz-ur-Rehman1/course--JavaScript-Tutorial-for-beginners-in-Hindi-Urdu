@@ -52,3 +52,9 @@
 ---
 [Brake-Continoue](./md/break-continoue.md)
 ---
+[Even-or-odd](./md/even-or-odd.md)
+---
+[Arrays](./md/arrays.md)
+---
+[Create-Arrays-Method](./md/create-arrays-method.md)
+---
