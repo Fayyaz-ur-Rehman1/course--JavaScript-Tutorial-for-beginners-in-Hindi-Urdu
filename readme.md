@@ -54,7 +54,7 @@
 ---
 [Even-or-odd](./md/even-or-odd.md)
 ---
-[Arrays](./md/arrays.md)
+[Multidimantion-Array-Method](./md/maltidimantion-array-method.md)
 ---
-[Create-Arrays-Method](./md/create-arrays-method.md)
+[Modify-And-Delete](./md/modify-and-delete.md)
 ---
