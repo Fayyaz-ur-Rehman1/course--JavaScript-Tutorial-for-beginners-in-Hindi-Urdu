@@ -54,7 +54,17 @@
 ---
 [Even-or-odd](./md/even-or-odd.md)
 ---
+[Arrays](./md/arrays.md)
+---
 [Multidimantion-Array-Method](./md/maltidimantion-array-method.md)
 ---
 [Modify-And-Delete](./md/modify-and-delete.md)
 ---
+[Array-Short-And-Reverse]
+[Array-Pop-And-Push]
+[Array-Shift-And-Unshift]
+[Array-Concat-And-Join]
+[Array-slice-And-Splice]
+[Is-Array]
+[Arrays-Index-Of-Last-Index-Of]
+[Array-Some-And-Every-Methods]
