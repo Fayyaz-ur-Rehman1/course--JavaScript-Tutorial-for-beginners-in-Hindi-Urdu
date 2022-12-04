@@ -80,3 +80,4 @@
 ---
 [Find-And-Find-Index-Of](./md/find-and-find-index.md)
 ---
+[Array-Filter](./md/array-filter-.md))
