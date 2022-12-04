@@ -3,8 +3,8 @@
 so the pattern is 
 ```javascript
 var ary = [
-    ["Danish",17,"eleventh"],
-    ["fayyaz",18,"eleventh"],
+    ["fayyaz",17,"eleventh"],
+    ["danish",18,"eleventh"],
     ["uzair",17,"nineth"],
     ["ayyaz",16,"nineth"],
     ["adanan",20,"collage"]

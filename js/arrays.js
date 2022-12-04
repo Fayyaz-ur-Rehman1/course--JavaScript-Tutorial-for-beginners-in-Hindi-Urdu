@@ -1,4 +1,4 @@
-var ary = ["fayyaz","danish","uzair","ayyaz"]
+    var ary = ["fayyaz","danish","uzair","ayyaz"]
 document.write(ary[2])
 document.write("<br>")
 

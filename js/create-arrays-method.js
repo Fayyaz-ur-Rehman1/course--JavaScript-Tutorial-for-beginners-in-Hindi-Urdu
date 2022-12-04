@@ -25,3 +25,4 @@
  for(var t = 0 ; t < 5; t++){ document.write("<li>" + h[t] + "</li>")
  }
  document.write("<ul>")
+ 
