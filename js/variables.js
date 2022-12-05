@@ -1,11 +1,10 @@
 document.write("<h1>variables</h1>")
-var z = "hello world<br>";
+var z = "variables<br>";
 var x =  "yahoo baba<br>";
 var c =  100.26
-x = "wow"
-x = 85
+z = "fayyaz <br>"
+c = 200
 document.write(z)
-document.write(x)
 document.write(x)
 document.write(c)
 

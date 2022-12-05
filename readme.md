@@ -81,3 +81,7 @@
 [Find-And-Find-Index-Of](./md/find-and-find-index.md)
 ---
 [Array-Filter](./md/array-filter-.md))
+---
+[Array-ToString-ValueOf-And-Fill-Method](./md/arrays-tostring-valueof-and-fill-method.md)
+---
+[For-Each-Loop](./md/for-each-loop.md)

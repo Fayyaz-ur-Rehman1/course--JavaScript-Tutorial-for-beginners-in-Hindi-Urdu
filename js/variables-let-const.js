@@ -10,5 +10,5 @@ document.write(busy)
   
 document.write("<h1>Const</h1>")
 
-const b = ("Danish chouhan")
+const b = ("Danish chouhan <br>")
 document.write(b)
