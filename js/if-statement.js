@@ -11,15 +11,15 @@ if(b < k){
     document.write("k is smaller")
 }
 document.write("<br>")
-var c = 19
-var l = 19
-if (c == l){
+var c = "19"
+var l = "19"
+if (c === l){
     document.write("FAYYAZ-KHILJI")
 }
 document.write("<br>")
 var d = 4
 var f = 6
-if(d == f){
+if(d < f){
     document.write("this is word answer beacuse this value is not equal-this value is worng then not show out put")
 }
 document.write("<br>")

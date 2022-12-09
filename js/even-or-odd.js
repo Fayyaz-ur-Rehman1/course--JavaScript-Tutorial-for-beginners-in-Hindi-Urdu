@@ -6,7 +6,7 @@ for(var e = 1 ; e <= 30 ; e++){
    document.write("<hr>")
 
    for( var w = 4 ; w <= 40 ; w++ ){
-    if( w % 4 == 0){
+    if( w % 3 == 0){
         document.write(w + "<br>")
     }
    }
