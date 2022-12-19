@@ -51,4 +51,4 @@ function abc(){
 ```
 > length show u the final length of your classes 
 ---
-more code cleck on [classlist-method.js](../js/)
+more code cleck on [classlist-method.js](../js/classlist-method.js)
