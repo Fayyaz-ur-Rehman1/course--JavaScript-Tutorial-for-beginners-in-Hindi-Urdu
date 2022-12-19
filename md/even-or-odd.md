@@ -31,4 +31,3 @@ for(var a = 1; a <= 10; a++){
 }
 ```
 more code cleck on[Even-or-odd.js](../js/even-or-odd.js)
-# the end
