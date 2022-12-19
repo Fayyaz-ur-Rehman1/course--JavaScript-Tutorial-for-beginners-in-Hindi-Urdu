@@ -148,7 +148,7 @@
 ---
 [Form-Event-Second-Method](./md/form-event-second.md)
 ---
-[SetInterval&ClearInterval-Method](./md/setinterval-and-clearinterval.md))
+[Setinterval&ClearInterval-Method](./md/setinterval-and-clearinterval.md))
 ---
 [SetTimeout&ClearTimeout-Method](./md/settimeout-and-clearTimeout-Method.md)
 ---
