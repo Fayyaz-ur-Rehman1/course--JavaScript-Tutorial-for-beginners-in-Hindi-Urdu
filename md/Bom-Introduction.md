@@ -15,3 +15,4 @@ so we can do this
 5 -> get URL , hostname , protocol , of , browser window
 6 -> get history of browser window 
 ---
+more code cleck on [Bom-introduction.js]
