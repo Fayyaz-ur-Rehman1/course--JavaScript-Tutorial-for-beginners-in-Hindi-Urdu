@@ -132,7 +132,7 @@
 ---
 [AppendChild-And-InsertBefore](./md/appendchild-%26-insertbefore.md)
 ---
-[InsertAdjecent-And-InserAdjecent-HTML](./md/insertadjacentelement-%26-insertadjacenthtml.md)
+[InsertAdjecent-And-InsertAdjecent-HTML](./md/insertadjacentelement-%26-insertadjacenthtml.md)
 ---
 [Replace-Child-And-Remove-Child](./md/replcechild-%26-removechild.md)
 ---
