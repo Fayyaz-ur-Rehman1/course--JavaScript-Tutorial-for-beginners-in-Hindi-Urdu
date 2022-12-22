@@ -154,5 +154,7 @@
 ---
 [Bom-Introduction-Method](./md/Bom-Introduction.md)
 ---
+[Window-Height-And-Weight](./md/window-height-and-wieght.md)
+---
 [WindowOpen&Close-mthod](./md/windowopen-and-windowclose-method.md)
 ---
