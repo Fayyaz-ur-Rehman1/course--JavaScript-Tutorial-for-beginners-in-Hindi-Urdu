@@ -1,5 +1,3 @@
- md link of js
- ---
  [Implementation](./md/implementation.md)
 ---
  [Add Html Tags](./md/AddHtmlTags.md)
@@ -148,4 +146,13 @@
 ---
 [Form-Event-Method](./md/form-event.md)
 ---
-
+[Form-Event-Second-Method](./md/form-event-second.md)
+---
+[SetInterval&ClearInterval-Method](./md/setinterval-and-clearinterval.md))
+---
+[SetTimeout&ClearTimeout-Method](./md/settimeout-and-clearTimeout-Method.md)
+---
+[Bom-Introduction-Method](./md/Bom-Introduction.md)
+---
+[WindowOpen&Close-mthod](./md/windowopen-and-windowclose-method.md)
+---
